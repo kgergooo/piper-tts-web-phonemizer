@@ -1,0 +1,290 @@
+{
+  "files": [
+    {
+      "filename": "/espeak-ng-data/intonations",
+      "start": 0,
+      "end": 2040
+    },
+    {
+      "filename": "/espeak-ng-data/is_dict",
+      "start": 2040,
+      "end": 46394
+    },
+    {
+      "filename": "/espeak-ng-data/lang/gmq/is",
+      "start": 46394,
+      "end": 46421
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/af1_phtrans",
+      "start": 46421,
+      "end": 48057
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ar1_phtrans",
+      "start": 48057,
+      "end": 49669
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ar2_phtrans",
+      "start": 49669,
+      "end": 51281
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ca_phtrans",
+      "start": 51281,
+      "end": 53277
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/cmn_phtrans",
+      "start": 53277,
+      "end": 54769
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/cr1_phtrans",
+      "start": 54769,
+      "end": 56933
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/cs_phtrans",
+      "start": 56933,
+      "end": 57513
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/de2_phtrans",
+      "start": 57513,
+      "end": 59245
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/de4_phtrans",
+      "start": 59245,
+      "end": 61049
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/de6_phtrans",
+      "start": 61049,
+      "end": 62445
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/de8_phtrans",
+      "start": 62445,
+      "end": 63601
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ee1_phtrans",
+      "start": 63601,
+      "end": 65045
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/en1_phtrans",
+      "start": 65045,
+      "end": 65841
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/es3_phtrans",
+      "start": 65841,
+      "end": 66901
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/es4_phtrans",
+      "start": 66901,
+      "end": 68009
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/es_phtrans",
+      "start": 68009,
+      "end": 69741
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/fr_phtrans",
+      "start": 69741,
+      "end": 71713
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/gr1_phtrans",
+      "start": 71713,
+      "end": 73925
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/gr2_phtrans",
+      "start": 73925,
+      "end": 76137
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/grc-de6_phtrans",
+      "start": 76137,
+      "end": 76621
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/he_phtrans",
+      "start": 76621,
+      "end": 77369
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/hn1_phtrans",
+      "start": 77369,
+      "end": 77901
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/hu1_phtrans",
+      "start": 77901,
+      "end": 79345
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ic1_phtrans",
+      "start": 79345,
+      "end": 80477
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/id1_phtrans",
+      "start": 80477,
+      "end": 82185
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/in_phtrans",
+      "start": 82185,
+      "end": 83629
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ir1_phtrans",
+      "start": 83629,
+      "end": 89441
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/it1_phtrans",
+      "start": 89441,
+      "end": 90765
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/it3_phtrans",
+      "start": 90765,
+      "end": 91657
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/jp_phtrans",
+      "start": 91657,
+      "end": 92693
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/la1_phtrans",
+      "start": 92693,
+      "end": 93441
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/lt_phtrans",
+      "start": 93441,
+      "end": 94501
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ma1_phtrans",
+      "start": 94501,
+      "end": 95441
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/mx1_phtrans",
+      "start": 95441,
+      "end": 97245
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/mx2_phtrans",
+      "start": 97245,
+      "end": 99073
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/nl_phtrans",
+      "start": 99073,
+      "end": 100757
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/nz1_phtrans",
+      "start": 100757,
+      "end": 101481
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/pl1_phtrans",
+      "start": 101481,
+      "end": 103069
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/pt1_phtrans",
+      "start": 103069,
+      "end": 105161
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ptbr4_phtrans",
+      "start": 105161,
+      "end": 107517
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ptbr_phtrans",
+      "start": 107517,
+      "end": 110041
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/ro1_phtrans",
+      "start": 110041,
+      "end": 112205
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/sv2_phtrans",
+      "start": 112205,
+      "end": 113793
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/sv_phtrans",
+      "start": 113793,
+      "end": 115381
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/tl1_phtrans",
+      "start": 115381,
+      "end": 116153
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/tr1_phtrans",
+      "start": 116153,
+      "end": 116517
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/us3_phtrans",
+      "start": 116517,
+      "end": 117673
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/us_phtrans",
+      "start": 117673,
+      "end": 118901
+    },
+    {
+      "filename": "/espeak-ng-data/mbrola_ph/vz_phtrans",
+      "start": 118901,
+      "end": 121185
+    },
+    {
+      "filename": "/espeak-ng-data/phondata",
+      "start": 121185,
+      "end": 671609
+    },
+    {
+      "filename": "/espeak-ng-data/phondata-manifest",
+      "start": 671609,
+      "end": 693430
+    },
+    {
+      "filename": "/espeak-ng-data/phonindex",
+      "start": 693430,
+      "end": 732504
+    },
+    {
+      "filename": "/espeak-ng-data/phontab",
+      "start": 732504,
+      "end": 788300
+    },
+    {
+      "filename": "/espeak-ng-data/voices/mb/mb-ic1",
+      "start": 788300,
+      "end": 788388
+    }
+  ],
+  "remote_package_size": 788388
+}
