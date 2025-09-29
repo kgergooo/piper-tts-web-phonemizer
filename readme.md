@@ -1,4 +1,4 @@
-# Piper Web Phonemizer with Per-Language Datasets
+# Espeak ng Phonemizer with Per-Language Datasets (compatible with Piper TTS)
 
 [PiperTTS voices on Hugging Face](https://huggingface.co/rhasspy/piper-voices)
 
