@@ -82,3 +82,19 @@ const phonemes = await firstValueFrom(phonemize("Text", "hu_HU-anna-medium"));
 ```
 
 Hope that is useful. Enjoy it.
+
+
+# License
+
+This repository contains modified data files and manifests derived from [eSpeak NG](https://github.com/espeak-ng/espeak-ng)  
+and its WebAssembly build.
+
+- The `*.data` files are derived from eSpeak NG language data.  
+- The `*.wasm` file is a build of the eSpeak NG phonemizer.  
+- The JSON manifest files were created to reorganize the data into per-language chunks.
+
+All files in this repository are licensed under the **GNU General Public License v3.0 (GPLv3)**,  
+in accordance with the original eSpeak NG license.  
+
+For details, see the original project:  
+➡️ [eSpeak NG on GitHub](https://github.com/espeak-ng/espeak-ng)
